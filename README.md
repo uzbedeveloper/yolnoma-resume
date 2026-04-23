@@ -2,7 +2,7 @@
 
 **Yo'lnoma** is an Android quiz application designed to help drivers and learners master Uzbekistan's **road traffic rules**. The app features categorized tests, real-time progress tracking, and detailed result breakdowns — all built with a clean, modern UI.
 
-📲 **[Download Latest APK](#)** *(https://github.com/uzbedeveloper/yolnoma-resume/releases/download/first/app-debug.apk)*
+📲 **[Download Latest APK](https://github.com/uzbedeveloper/yolnoma-resume/releases/download/first/app-debug.apk)
 
 ---
 
